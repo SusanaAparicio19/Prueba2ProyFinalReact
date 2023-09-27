@@ -1,8 +1,21 @@
-# React + Vite
+# 46 Soles e-commerce
+E-commerce to simulate purchase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Follow these steps to install and run the project locally:
+1. Clone this repository.
+2. Run `npm install` to install the dependencies.
+3. Run `npm start` to start the application.
 
-Currently, two official plugins are available:
+## Characteristics
+- You can choose one or more products
+- See their details
+- Add them to cart
+- Complete the Form data
+- Generate Purchase Order
+- Receive your purchase ID
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Issues
+
+If you find any problems or have suggestions, please open an issue in this repository.
+
+Made by 46Soles.
